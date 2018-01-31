@@ -9,6 +9,7 @@ Herramientas utilizadas:
 + HTML 5
 + CSS 3
 + JavaScript
++ jQuery
 + Google Charts
 + JSON
 
