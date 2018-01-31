@@ -16,7 +16,7 @@ function LecturaJson() {
         json = xhttp.responseText;
         json2 = JSON.parse(json);
     };
-    xhttp.open("GET", "js/peliculas.json", false);
+    xhttp.open("GET", "../js/peliculas.json", false);
     xhttp.send();
     infoPelicula(json2);
 }
