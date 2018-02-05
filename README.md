@@ -16,4 +16,4 @@ Herramientas utilizadas:
 omarhr6
 --------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;[github.com/omarhr6](https://github.com/omarhr6)
+&nbsp;&nbsp;&nbsp;&nbsp;[Prueba aquí](https://omarhr6.github.io/Votacion-Peliculas/)
