@@ -127,8 +127,8 @@
         "generos": "Drama, Crimen, Suspense",
         "trailer": "https://www.youtube.com/embed/hL9A1iqu5ck",
         "imagen": "img/Ciudadano-ejemplar.jpg",
-        "imagen2": "../img/Ciudadano-ejemplar.jpg",
-        "portada": "../img/portadas/Ciudadano-ejemplar-portada.jpg",
+        "imagen2": "../img/Ciudadano-Ejemplar.jpg",
+        "portada": "../img/portadas/Ciudadano-Ejemplar-portada.jpg",
         "duracion": "109 minutos"
     }
 }
